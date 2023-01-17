@@ -1,4 +1,4 @@
-<strong>Ich habe am 14. Januar 2023 angefangen, das Programmieren zu lernen. Mit dieser Webseite habe ich mein erstes Projekt gestartet.</strong>
+<strong>Ich habe am 14. Januar 2023 angefangen, das Programmieren zu lernen. Mit dieser Webseite habe ich mein erstes Projekt gestartet. Wenn du über dieses und weitere Projekte nichts verpassen willst, dann schau doch mal bei meinen sozialen Medien vorbei.</strong>
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/twentiesfour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TwentiesFour) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TwentiesFour)
