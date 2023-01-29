@@ -1,4 +1,4 @@
-<strong>I started programming on January 14, 2023. I started my first project with my website letszock.de. If you don't want to miss anything more about this and other projects, then have a look at my social media.</strong>
+<strong>I started programming on January 14, 2023. I started my first project with my website letszock.com. If you don't want to miss anything more about this and other projects, then have a look at my social media.</strong>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/twentiesfourartwork) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/twentiesfour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TwentiesFour) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TwentiesFour)
